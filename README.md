@@ -1,4 +1,4 @@
-# 2D 남자친구 사귀기
+# VoiceCloning과 Audio2Video를 이용한 대화형 AI 아바타 
 ---
 ## 등장배경
 
