@@ -67,7 +67,7 @@ TTS의 main component는 다음과 같습니다.
 - 김홍주: PM, Aniportrait Finetuning
 - 김민서: RAG, XTTS
 - 김재영: RAG, GPT
-- 문재영: Aniportrait Finetuning, UI
+- 문재원: Aniportrait Finetuning, UI
 - 정윤서: XTTS Fintuning, Github Management
 
 
